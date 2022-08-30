@@ -6,6 +6,7 @@
     "rootDir": "src",
     "outDir": "dist",
     "target": "es5",
+    "lib": ["dom", "es5", "es2015.promise"],
     "sourceMap": true,
     "removeComments": true,
     "noImplicitAny": true
